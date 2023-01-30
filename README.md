@@ -49,7 +49,10 @@ After connecting the data, I proceed into building my report and Dashboard.
 5. Bar chart 2 visualize Order amount by Cuisine, French has highest order of amount of 26797 follow by Continental has order amount of 18934 while the lowest is Chinese has order amount of 13674.
 6. Line chart visualize Hourly % Change in Orders and Transaction.
 7. Area chart visualize hours by Orders amount.
-8. Map chart showing the State and Order amount. ***NB the Africa map used was not the right map to use but just used for sample purpose.*** 
+8. Map chart showing the State and Order amount. ***NB the Africa map used was not the right map to use but just used for sample purpose.***
+
+![My Dashboard](https://user-images.githubusercontent.com/107544339/215404233-0a54b603-0978-4955-b712-7254a7c449db.jpg)
+
 
 ## Summary of the Report and Dashboard Carried out 	
 **The report was done by Pivot table which was 10 in total**
@@ -68,7 +71,7 @@ Pivot-Manage-pivot table-
 
 **After the report the next thing is to start creating a Dashboard by opening another sheet for Dashboard.**
 
-##### Steps to create Dashbord
+### Steps to create Dashbord
 1. View – show – uncheck headings then change the background into black (Highlight -Home -fill color)
 2. Bring in a shape to make it as heading, insert icons
 3. To link the report page with the text box (insert text box-right click on the tip of the box-fx =report 
