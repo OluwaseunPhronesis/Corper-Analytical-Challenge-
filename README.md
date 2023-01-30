@@ -3,10 +3,10 @@
 Using Power Pivot and Pivot Table to create Dashboard in Excel 
 
 # Outliine
-[x] Introduction 
+[x]Introduction 
 *The workflow
-* Data Gathering and Transformation
-Data analysis
-Summary of the report and dashboard 
-Recommendation
-Conclusion
+*Data Gathering and Transformation
+*Data analysis
+*Summary of the report and dashboard 
+*Recommendation
+*Conclusion
