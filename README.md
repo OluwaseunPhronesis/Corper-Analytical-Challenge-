@@ -65,22 +65,22 @@ Pivot-Manage-pivot table-
 9.	Order amount and Target (% = order amount/Target)
 10.	Mode of Payment, Average delivery time and Average customer ranking delivery
 
-After the report the next thing is to start creating a Dashboard on Report Page by opening another sheet for Dashboard.
+**After the report the next thing is to start creating a Dashboard on Report Page by opening another sheet for Dashboard.**
 
-View – show – uncheck headings then change the background into black (Highlight -Home -fill color)
+Steps to create Dashbord
+1. View – show – uncheck headings then change the background into black (Highlight -Home -fill color)
+2. Bring in a shape to make it as heading, insert icons
+3. To link the report page with the text box (insert text box-right click on the tip of the box-fx =report 
+4. Pivot table analysis – insert slicer- zone 
 
-Bring in a shape to make it as heading, insert icons
-
-To link the report page with the text box (insert text box-right click on the tip of the box-fx =report 
-Pivot table analysis – insert slicer- zone 
-
-The dashboard has a zone slicer for filtering by Zone 
-Text card of cumulative order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
-Visualization of Category, order of amount and % of grand total for order of amount in text format.
-Using Bar chart to visual Restaurant order amount by target and Order amount by Cuisine 
-  line chart to visualize Hourly % Change in Orders and Transaction 
-Area chart visualize hours by Orders amount 
-Map chart showing the State and Order amount 
+The dashboard includes:
+1. Zone slicer for filtering by Zone 
+2. Text card of cumulative order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
+3. Visualization of Category, order of amount and % of grand total for order of amount in text format.
+4. Using Bar chart to visual Restaurant order amount by target and Order amount by Cuisine 
+5. line chart to visualize Hourly % Change in Orders and Transaction 
+6. Area chart visualize hours by Orders amount 
+7. Map chart showing the State and Order amount 
 ***NB: the map chart cannot be created by on the pivot table direct.***
 To create a map in pivot table 
 
