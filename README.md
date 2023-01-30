@@ -26,7 +26,7 @@ The Documentation includes:
 - Conclusion
 
 ## Data Gathering and Transformation
-The data was gotten from Kaggle .com which are (Restaurant [Restaurants.xlsx](https://github.com/OluwaseunPhronesis/Corper-Analytical-Challenge-/files/10533242/Restaurants.xlsx) and Order Data ![Orders.xlsx](https://github.com/OluwaseunPhronesis/Corper-Analytical-Challenge-/files/10533247/Orders.xlsx)) and it was accomplished by Adewale Yusuf.
+The data was gotten from Kaggle .com which are (Restaurant [Restaurants.xlsx](https://github.com/OluwaseunPhronesis/Corper-Analytical-Challenge-/files/10533242/Restaurants.xlsx) and Order Data [Orders.xlsx](https://github.com/OluwaseunPhronesis/Corper-Analytical-Challenge-/files/10533247/Orders.xlsx)) and it was accomplished by Adewale Yusuf.
 
 The Order data has 5,010 records: 10Columns and 5,010Rows.  The data includes Order ID, Customer Name, Restaurant ID, Order Date, Quantity of items, Order Amount, Payment Mode, Delivery Time Taken, Customer Rating-Food, Customer Rating-Delivery which will allow me to properly visualize and dimension the data.
 
