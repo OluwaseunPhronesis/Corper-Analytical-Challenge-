@@ -50,3 +50,37 @@ After connecting the data, I proceed into building my report and Dashboard.
 6. Line chart visualize Hourly % Change in Orders and Transaction.
 7. Area chart visualize hours by Orders amount.
 8. Map chart showing the State and Order amount. ***NB the Africa map used was not the right map to use but just used for sample purpose.*** 
+
+## Summary of the Report and Dashboard Carried out 	
+The report was done by Pivot table which was 10 in total 
+Pivot-Manage-pivot table-
+1.	Order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
+2.	Category, order of amount and % of grand total for order of amount.
+3.	Restaurant name, Order Amount and Target.
+4.	Order data (Hours), HOH % order amount (Right click- show value as % Difference, comparing by Previous) and HOH % Transactions by % difference 
+5.	Cuisine by order amount
+6.	Order Date by Order Amount
+7.	Order amount by State 
+8.	Order amount, Payment Mode and order Amount in %
+9.	Order amount and Target (% = order amount/Target)
+10.	Mode of Payment, Average delivery time and Average customer ranking delivery
+
+After the report the next thing is to start creating a Dashboard on Report Page by opening another sheet for Dashboard.
+
+View – show – uncheck headings then change the background into black (Highlight -Home -fill color)
+
+Bring in a shape to make it as heading, insert icons
+
+To link the report page with the text box (insert text box-right click on the tip of the box-fx =report 
+Pivot table analysis – insert slicer- zone 
+
+The dashboard has a zone slicer for filtering by Zone 
+Text card of cumulative order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
+Visualization of Category, order of amount and % of grand total for order of amount in text format.
+Using Bar chart to visual Restaurant order amount by target and Order amount by Cuisine 
+  line chart to visualize Hourly % Change in Orders and Transaction 
+Area chart visualize hours by Orders amount 
+Map chart showing the State and Order amount 
+***NB: the map chart cannot be created by on the pivot table direct.***
+To create a map in pivot table 
+
