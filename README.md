@@ -52,7 +52,7 @@ After connecting the data, I proceed into building my report and Dashboard.
 8. Map chart showing the State and Order amount. ***NB the Africa map used was not the right map to use but just used for sample purpose.*** 
 
 ## Summary of the Report and Dashboard Carried out 	
-The report was done by Pivot table which was 10 in total 
+**The report was done by Pivot table which was 10 in total**
 Pivot-Manage-pivot table-
 1.	Order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
 2.	Category, order of amount and % of grand total for order of amount.
@@ -67,13 +67,13 @@ Pivot-Manage-pivot table-
 
 **After the report the next thing is to start creating a Dashboard on Report Page by opening another sheet for Dashboard.**
 
-Steps to create Dashbord
+**Steps to create Dashbord**
 1. View – show – uncheck headings then change the background into black (Highlight -Home -fill color)
 2. Bring in a shape to make it as heading, insert icons
 3. To link the report page with the text box (insert text box-right click on the tip of the box-fx =report 
 4. Pivot table analysis – insert slicer- zone 
 
-The dashboard includes:
+**The dashboard includes:**
 1. Zone slicer for filtering by Zone 
 2. Text card of cumulative order amount, Transaction count, Quality of items, Average delivery time, Average customer ranking delivery.
 3. Visualization of Category, order of amount and % of grand total for order of amount in text format.
@@ -82,5 +82,28 @@ The dashboard includes:
 6. Area chart visualize hours by Orders amount 
 7. Map chart showing the State and Order amount 
 ***NB: the map chart cannot be created by on the pivot table direct.***
-To create a map in pivot table 
+
+**To create a map in pivot table**
+
+Create columns for State (copy and paste all the list of state) and order amount (=Vlookup….) then highlight the columns and click map 
+8. Scatter chart: make x and y scatter chart position then to insert scatter chart – select data -input the value. Change the chart to bubble chart and format the chart included with label and put an highlight on the highest bubble (highest payment amount) by adding a maths formula (Max (=if amount=max the full tab, amount””) lock then right click to select data 
+9. Bubble chart visual the mode of payment by the order amount 
+10. The percentage of budget achieved is link by text card to the middle of the scatter chart then using a donut chart to represent the percentage.
+
+By click in empty excel-right click -select data (series=add 1 up to 50 with comma) then format the color and add the data again represent percentage. 
+
+Change the donut chart to combo chart (series=donut and other =secondary).
+
+Change the color of the small and the big portion to black of difference solid, remove all boarder.
+
+To create sub for the bubbles in the bubble chart 
+## Recommendation
+Based on the result from the sentiment analysis, people are encouraged to talk more positively about the election, they should not see it as something they are indifferent about since the election will impact them.
+
+Based on the result from the Budget Achieved by Zone, Zone B have the highest Restaurant Order.
+
+The Budget Achieved shows that Zone A 81%, Zone B 99%, Zone C 96%, Zone D 95%
+## Conclusion 
+This challenge shows the effective use of Power Pivot and Pivot Table to create Dashboard in Excel Although the use case extends beyond the challenge it can be applied in businesses to determine customer sentiments based on their review thereby letting the business owner know how their business is perceived by customers. Using the right Chart to analyze is also as important as getting the intended result and you can’t miss it when Excel accomplish that.
+
 
